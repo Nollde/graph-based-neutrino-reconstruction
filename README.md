@@ -1,5 +1,5 @@
 # Graph Based Neutrino Reconstruction
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgit.rwth-aachen.de%2Fdennis.noll%2Fgraph-based-neutrino-reconstruction.git/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgit.rwth-aachen.de%2Fdennis.noll%2Fgraph-based-neutrino-reconstruction.git/HEAD?labpath=neutrino_reco.ipynb)
 
 This repository has been created for the [Poster Contribution ID 738 on the Acat Conference 2021](https://indico.cern.ch/event/855454/contributions/4596736/).
 
